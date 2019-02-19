@@ -3,7 +3,7 @@
 /*****************************************************
 * This the main function in this file
 * The main function will just call another  function called helloWorldFunction
-*****************************************************//**
+*****************************************************//**/
 void
 helloWorldFunction(char *input);
 int
