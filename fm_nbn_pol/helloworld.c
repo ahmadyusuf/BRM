@@ -10,7 +10,7 @@ helloWorldFunction(
 *******************************************************************************/
 int main()
 {
- helloWorldFunction("Hello World 1");
+ helloWorldFunction("Hello World 2");
  return 0;
 }
 
